@@ -31,6 +31,7 @@ int hrugufjoldi;
 //Hér byrjar aðalforritið:
 int main( )
 {
+	cout << "Magnus var her! muhahahhaha" << endl;
 	int val;
 	do
 	{
